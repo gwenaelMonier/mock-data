@@ -1,0 +1,58 @@
+[
+  {
+    "id": 354,
+    "name": "Jian Yang",
+    "imageUrl": "https://raw.githubusercontent.com/gwenaelMonier/mock-data/master/taxi-map/assets/jian_yang.jpg",
+    "lat": 48.924211,
+    "lng": 2.316890
+  },
+  {
+    "id": 355,
+    "name": "Richard Hendricks",
+    "imageUrl": "https://raw.githubusercontent.com/gwenaelMonier/mock-data/master/taxi-map/assets/richard_hendricks.jpg",
+    "lat": 48.925707,
+    "lng": 2.363543
+  },
+  {
+    "id": 358,
+    "name": "Erlich Bachman",
+    "imageUrl": "https://raw.githubusercontent.com/gwenaelMonier/mock-data/master/taxi-map/assets/erlich_bachman.jpg",
+    "lat": 48.815312,
+    "lng": 2.391225
+  },
+  {
+    "id": 359,
+    "name": "Bertram Gilfoyle",
+    "imageUrl": "https://raw.githubusercontent.com/gwenaelMonier/mock-data/master/taxi-map/assets/bertram_gilfoyle.jpg",
+    "lat": 48.821840,
+    "lng": 2.303371
+  },
+  {
+    "id": 360,
+    "name": "Dinesh Chugtai",
+    "imageUrl": "https://raw.githubusercontent.com/gwenaelMonier/mock-data/master/taxi-map/assets/dinesh_chugtai.jpg",
+    "lat": 48.858839,
+    "lng": 2.399208
+  },
+  {
+    "id": 365,
+    "name": "Jared Dunn",
+    "imageUrl": "https://raw.githubusercontent.com/gwenaelMonier/mock-data/master/taxi-map/assets/jared_dunn.jpg",
+    "lat": 48.827855,
+    "lng": 2.350774
+  },
+  {
+    "id": 366,
+    "name": "Gavin Belson",
+    "imageUrl": "https://raw.githubusercontent.com/gwenaelMonier/mock-data/master/taxi-map/assets/gavin_belson.jpg",
+    "lat": 48.827855,
+    "lng": 2.350774
+  },
+  {
+    "id": 368,
+    "name": "Peter Gregory",
+    "imageUrl": "https://raw.githubusercontent.com/gwenaelMonier/mock-data/master/taxi-map/assets/peter_gregory.jpg",
+    "lat": 48.827855,
+    "lng": 2.350774
+  }
+]
