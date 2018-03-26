@@ -50,7 +50,7 @@
   {
     "id": 355,
     "name": "Richard Hendricks",
-    "rating": 4.2,
+    "rating": 3.2,
     "imageUrl": "https://raw.githubusercontent.com/gwenaelMonier/mock-data/master/taxi-map/assets/richard_hendricks.jpg",
     "rideSteps": [
       {
@@ -98,7 +98,7 @@
   {
     "id": 358,
     "name": "Erlich Bachman",
-    "rating": 3.5,
+    "rating": 2.5,
     "imageUrl": "https://raw.githubusercontent.com/gwenaelMonier/mock-data/master/taxi-map/assets/erlich_bachman.jpg",
     "rideSteps": [
       {
@@ -146,7 +146,7 @@
   {
     "id": 359,
     "name": "Bertram Gilfoyle",
-    "rating": 4.8,
+    "rating": 1.8,
     "imageUrl": "https://raw.githubusercontent.com/gwenaelMonier/mock-data/master/taxi-map/assets/bertram_gilfoyle.jpg",
     "rideSteps": [
       {
@@ -194,7 +194,7 @@
   {
     "id": 360,
     "name": "Dinesh Chugtai",
-    "rating": 4.1,
+    "rating": 3.1,
     "imageUrl": "https://raw.githubusercontent.com/gwenaelMonier/mock-data/master/taxi-map/assets/dinesh_chugtai.jpg",
     "rideSteps": [
       {
@@ -290,7 +290,7 @@
   {
     "id": 366,
     "name": "Gavin Belson",
-    "rating": 4.4,
+    "rating": 2.4,
     "imageUrl": "https://raw.githubusercontent.com/gwenaelMonier/mock-data/master/taxi-map/assets/gavin_belson.jpg",
     "rideSteps": [
       {
@@ -338,7 +338,7 @@
   {
     "id": 368,
     "name": "Peter Gregory",
-    "rating": 3.9,
+    "rating": 1.9,
     "imageUrl": "https://raw.githubusercontent.com/gwenaelMonier/mock-data/master/taxi-map/assets/peter_gregory.jpg",
     "rideSteps": [
       {
